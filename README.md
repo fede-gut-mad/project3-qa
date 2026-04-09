@@ -1,4 +1,4 @@
-# **LanguageWire QA Automation Challenge**
+# **QA testing suite on translator app**
 
 ## **Tech Stack**
 
@@ -9,7 +9,7 @@
 
 ## **Overview**
 
-This repo contains an automated test suite for LanguageWire's QA Automation assignmnet. The suite tests a demo version of LW's translation platform embedded on their public business page.
+The suite tests a demo version of translation platform embedded on their public business page.
 
 The suite covers the following use-cases:
 
@@ -30,8 +30,8 @@ Test suite uses Playwright with Typescript language. It is designed to run acros
 Steps
 
 1. Open a project on your preferred code editor
-2. Clone the repo (lw-assignment)
-3. Install dependencies
+2. Clone the repo
+4. Install dependencies
 
 ```
 npm install
